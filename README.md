@@ -25,4 +25,4 @@
 
 **My Github Profile Trophy:**
 
-<img src="https://github-profile-trophy.vercel.app/?username=naj1n&title=Commits,MultiLanguage,PullRequest,Followers" alt="logo" height="100" align="center" style="margin: auto; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=naj1n&title=Commits,PullRequest,Followers" alt="logo" height="100" align="center" style="margin: auto; margin-bottom: 20px;" />
