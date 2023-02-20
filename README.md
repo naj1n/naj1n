@@ -21,7 +21,6 @@
 <code><img src="https://img.shields.io/badge/-Kubernetes-0078d7?style=flat-square&logo=kubernetes&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/></code>
 
 **My Github Profile Trophy:**
 
