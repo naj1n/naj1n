@@ -5,9 +5,9 @@
 - 🤖 Full stack Developer.
 - ❤️ Prev Go developer at [illacloud](https://illacloud.com/).
 - 👨🏻‍💻 Open to new opportunities.
-- 📫 How to reach me: [Twitter](https://twitter.com/naj1n), [Calendly](https://calendly.com/naj1n)
+- 📫 How to reach me: [Twitter](https://twitter.com/jaydengdotme), [Calendly](https://calendly.com/naj1n)
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img src="https://img.shields.io/badge/-Rust-FF4785?style=flat-square&logo=Rust&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/-Go-4285F4?style=flat-square&logo=Go&logoColor=white"/></code>
