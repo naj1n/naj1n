@@ -1,9 +1,7 @@
 # Hola, I'm [Jay Deng](https://github.com/naj1n)
 
 - 🤖 Full stack Developer.
-- 🔭 I’m currently working on [PackPack AI](https://packpack.ai)
 - 🌱 I’m currently learning [AutoGen](https://github.com/microsoft/autogen), [smolagents](https://github.com/huggingface/smolagents), [Mastra](https://github.com/mastra-ai/mastra)
-- 👨🏻‍💻 I'm currently open to new opportunities.
 - 📫 How to reach me: [Twitter](https://twitter.com/ejaydng), [Calendly](https://calendly.com/naj1n), [Mail](mailto:contact@jaydeng.me)
 - 😄 Pronouns: He/him.
 
