@@ -7,7 +7,7 @@
 
 **Languages and Tools:**
 
-<code><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/></code>
+<code><img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/></code>
 <code><img src="https://img.shields.io/badge/-Go-4285F4?style=flat-square&logo=Go&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typeScript&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/-Rust-FF4785?style=flat-square&logo=Rust&logoColor=white"/></code>
